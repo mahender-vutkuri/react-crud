@@ -1,0 +1,16 @@
+.navbar {
+    background-color: teal;
+}
+
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 15px;
+}
+
+.navbar ul li {
+    margin: 0 5px;
+    color: black;
+}
